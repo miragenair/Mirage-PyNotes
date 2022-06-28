@@ -1,0 +1,32 @@
+You drank water at this time:                                      Thu Jun 16 00:21:41 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 00:21:54 2022
+You did the physical training exersise sucessfully at this time:   Thu Jun 16 00:22:04 2022
+You drank water at this time:                                      Thu Jun 16 00:22:13 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 00:22:26 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 01:11:20 2022
+You drank water at this time:                                      Thu Jun 16 01:16:42 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 01:21:53 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 01:22:05 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 11:54:21 2022
+You drank water at this time:                                      Thu Jun 16 11:59:44 2022
+You did the physical training exersise sucessfully at this time:   Thu Jun 16 12:09:52 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 12:25:02 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 19:28:44 2022
+You did the eye training exersise sucessfully at this time:        Thu Jun 16 19:28:57 2022
+You drank water at this time:                                      Sun Jun 19 15:40:18 2022
+You did the eye training exersise sucessfully at this time:        Mon Jun 20 14:15:41 2022
+You drank water at this time:                                      Mon Jun 20 14:20:47 2022
+You did the physical training exersise sucessfully at this time:   Mon Jun 20 14:34:41 2022
+You did the eye training exersise sucessfully at this time:        Mon Jun 20 14:50:05 2022
+You drank water at this time:                                      Mon Jun 20 15:00:16 2022
+You did the eye training exersise sucessfully at this time:        Fri Jun 24 11:03:30 2022
+You drank water at this time:                                      Fri Jun 24 11:08:37 2022
+You did the physical training exersise sucessfully at this time:   Fri Jun 24 11:18:43 2022
+You did the eye training exersise sucessfully at this time:        Fri Jun 24 11:33:48 2022
+You drank water at this time:                                      Fri Jun 24 11:43:53 2022
+You did the eye training exersise sucessfully at this time:        Fri Jun 24 12:04:03 2022
+You did the physical training exersise sucessfully at this time:   Fri Jun 24 12:04:09 2022
+You drank water at this time:                                      Fri Jun 24 12:19:14 2022
+You did the eye training exersise sucessfully at this time:        Fri Jun 24 12:34:32 2022
+You did the physical training exersise sucessfully at this time:   Fri Jun 24 12:49:39 2022
+You drank water at this time:                                      Fri Jun 24 12:54:46 2022

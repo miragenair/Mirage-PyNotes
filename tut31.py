@@ -1,0 +1,10 @@
+f = open("mirage.txt")
+# print(f.tell())
+print(f.readline())
+f.seek(10)
+# print(f.tell())
+print(f.readline())
+# print(f.tell())
+# print(f.readline())
+
+f.close()
